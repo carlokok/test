@@ -1,3 +1,3 @@
 # test
 
-See [wiki!](/carlokok/test/wiki)
+See [wiki!](https://github.com/carlokok/test/wiki)
